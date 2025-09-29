@@ -1,8 +1,8 @@
 #include <cstdlib>
 #include <algorithm>
-#include "xr_file_system.cxx"
+#include "xr_file_system.h"
 #include "xr_ini_file.h"
-#include "xr_clsid.cxx"
+#include "xr_clsid.h"
 #include "xr_string_utils.h"
 #include "xr_utils.h"
 

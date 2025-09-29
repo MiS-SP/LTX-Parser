@@ -1,0 +1,182 @@
+[
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/lapi.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/lapi.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/lapi.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/lapi.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/lcode.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/lcode.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/lcode.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/lcode.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/ldebug.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/ldebug.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/ldebug.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/ldebug.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/ldo.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/ldo.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/ldo.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/ldo.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/ldump.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/ldump.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/ldump.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/ldump.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/lfunc.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/lfunc.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/lfunc.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/lfunc.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/lgc.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/lgc.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/lgc.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/lgc.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/llex.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/llex.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/llex.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/llex.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/lmem.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/lmem.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/lmem.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/lmem.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/lobject.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/lobject.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/lobject.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/lobject.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/lopcodes.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/lopcodes.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/lopcodes.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/lopcodes.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/lparser.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/lparser.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/lparser.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/lparser.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/lstate.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/lstate.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/lstate.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/lstate.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/lstring.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/lstring.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/lstring.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/lstring.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/ltable.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/ltable.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/ltable.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/ltable.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/ltm.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/ltm.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/ltm.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/ltm.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/lundump.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/lundump.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/lundump.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/lundump.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/lvm.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/lvm.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/lvm.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/lvm.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/lzio.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/lzio.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/lzio.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/lzio.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/lauxlib.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/lauxlib.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/lauxlib.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/lauxlib.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/lbaselib.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/lbaselib.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/lbaselib.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/lbaselib.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/ldblib.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/ldblib.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/ldblib.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/ldblib.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/liolib.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/liolib.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/liolib.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/liolib.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/lmathlib.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/lmathlib.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/lmathlib.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/lmathlib.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/loslib.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/loslib.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/loslib.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/loslib.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/lstrlib.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/lstrlib.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/lstrlib.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/lstrlib.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/ltablib.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/ltablib.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/ltablib.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/ltablib.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/loadlib.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/loadlib.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/loadlib.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/loadlib.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/gcc -DLUA_USE_LINUX -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -o CMakeFiles/lua51.dir/lua-5.1/src/linit.c.o -c \"/mnt/P3/DEV/LTX Parser/lua-5.1/src/linit.c\"",
+  "file": "/mnt/P3/DEV/LTX Parser/lua-5.1/src/linit.c",
+  "output": "CMakeFiles/lua51.dir/lua-5.1/src/linit.c.o"
+},
+{
+  "directory": "/mnt/P3/DEV/LTX Parser/build",
+  "command": "/usr/bin/g++ -Dxr_agent_EXPORTS -I\"/mnt/P3/DEV/LTX Parser\" -I\"/mnt/P3/DEV/LTX Parser/lua-5.1/src\" -g -std=c++23 -fPIC -Wall -Wextra -fPIC -o CMakeFiles/xr_agent.dir/xr_agent.cpp.o -c \"/mnt/P3/DEV/LTX Parser/xr_agent.cpp\"",
+  "file": "/mnt/P3/DEV/LTX Parser/xr_agent.cpp",
+  "output": "CMakeFiles/xr_agent.dir/xr_agent.cpp.o"
+}
+]

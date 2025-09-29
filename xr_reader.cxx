@@ -1,7 +1,7 @@
 #include <cstdlib>
 #include <cstring>
 #include "xr_reader.h"
-#include "xr_lzhuf.cxx"
+#include "xr_lzhuf.h"
 #include "xr_packet.h"
 
 using namespace xray_re;

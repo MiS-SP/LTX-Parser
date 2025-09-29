@@ -1,0 +1,4 @@
+/mnt/P3/DEV/LTX Parser/build/CMakeFiles/lua51.dir
+/mnt/P3/DEV/LTX Parser/build/CMakeFiles/xr_agent.dir
+/mnt/P3/DEV/LTX Parser/build/CMakeFiles/edit_cache.dir
+/mnt/P3/DEV/LTX Parser/build/CMakeFiles/rebuild_cache.dir

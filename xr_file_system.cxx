@@ -1,10 +1,10 @@
 #include <cctype>
-#include "xr_file_system_platform.cxx"
+#include "xr_file_system_platform.h"
 #include "xr_file_system.h"
 #include "xr_utils.h"
 #include "xr_string_utils.h"
 #include "xr_reader.h"
-#include "xr_writer.cxx"
+#include "xr_writer.h"
 #include <filesystem>
 #include <fstream>
 

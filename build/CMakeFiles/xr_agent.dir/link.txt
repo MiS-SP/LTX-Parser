@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g -Wl,--dependency-file=CMakeFiles/xr_agent.dir/link.d -shared -Wl,-soname,xr_agent.so.1 -o xr_agent.so.1.0 CMakeFiles/xr_agent.dir/xr_agent.cpp.o  liblua51.a

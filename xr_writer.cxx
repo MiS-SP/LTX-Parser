@@ -5,7 +5,7 @@
 #include "xr_file_system.h"
 #include "xr_packet.h"
 #include "xr_guid.h"
-#include "xr_lzhuf.cxx"
+#include "xr_lzhuf.h"
 
 using namespace xray_re;
 
